@@ -1,0 +1,3 @@
+# PHP Recursive Array Processing: Handling Empty Strings
+
+This repository demonstrates a potential issue in a PHP function designed to recursively process nested arrays. The function correctly processes nested arrays and extracts string values, but it omits empty strings from the output.  This example highlights the importance of comprehensive error handling and edge case consideration in recursive functions.
